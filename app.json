@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/popup/index",
     "pages/logs/logs",
     "pages/show/index"
   ],

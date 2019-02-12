@@ -37,12 +37,12 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 1,
+			"current": 0,
 			"list": [
 				{
-					"id": -1,
+					"id": 0,
 					"name": "aa",
-					"pathName": "/pages/show/index",
+					"pathName": "pages/popup/index",
 					"query": "",
 					"scene": null
 				},
@@ -50,6 +50,7 @@
 					"id": -1,
 					"name": "aa",
 					"pathName": "pages/show/index",
+					"query": "",
 					"scene": null
 				}
 			]
